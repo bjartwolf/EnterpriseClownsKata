@@ -1,0 +1,8 @@
+/.ionide/
+/.paket/
+/.vs/
+**/bin/
+**/obj/
+/.vscode/
+/paket-files/
+/src/ClownApp/bin/
